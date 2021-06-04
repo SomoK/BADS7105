@@ -1,6 +1,6 @@
 # Customer Movement Analysis 
 
-Status:
+Status:  
 *New** -> Appeared in current month but not the previous month nor the month before  
 *Repeat** -> Appeared in current month and the previous month  
 *Reactivated** -> Appeared in current month not the previous month but did appeared the month before  
