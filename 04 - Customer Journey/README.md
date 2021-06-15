@@ -1,3 +1,3 @@
 # Customer Journey
 
-![customer journey](./Customer%Journey.png)
+![customer journey](./Customer%20Journey.png)
