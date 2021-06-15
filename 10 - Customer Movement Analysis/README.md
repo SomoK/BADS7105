@@ -15,4 +15,4 @@ Used SQL to count customer in each status for each month in the dataset done usi
 
 ## Result
 Visualization made using Google Data Studio which can import the data from Google Big Query after the preparation.
-![customer movement graph](https://github.com/SomoK/BADS7105/blob/main/Homework%2010%20-%20Customer%20Movement%20Analysis/customer%20movement%20graph.PNG)
+![customer movement graph](./customer%20movement%20graph.PNG)
