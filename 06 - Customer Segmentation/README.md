@@ -7,7 +7,7 @@ For the Customer Segmentation customer code, spending amount, quantity, and shop
 ## Data Preparation
 Used SQL to group the customers into 7 clusters based on TOTAL_VISIT, SPEND_PER_VISIT, SHOP_HOUR_PER_VISIT, QUANTITY_PER_VISIT the visualization was done using Google Big Query.
 
-![customer segmentation](./Customer%Segmentation.png)
+![customer segmentation](./Customer%20Segmentation.png)
 
 ### Group 1 
 Is the largest group, having a relatively low number of visits, does not spend much nor purchase many items.
