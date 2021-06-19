@@ -15,7 +15,7 @@
 <p> Threshold setting
 
 ## Prototype
-![prototype](./prototype.png)
+![prototype](./Prototype.png)
 
 ## Feedback
 <p> Notification is too small hard to see, maybe voice notification would be better
