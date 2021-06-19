@@ -15,7 +15,7 @@
 <p> Threshold setting
 
 ## Prototype
-![customer movement graph](./prototype.png)
+![prototype](./prototype.png)
 
 ## Feedback
 <p> Notification is too small hard to see, maybe voice notification would be better
